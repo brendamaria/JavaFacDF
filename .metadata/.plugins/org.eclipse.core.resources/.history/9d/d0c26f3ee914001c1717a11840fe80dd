@@ -1,0 +1,8 @@
+package aula02;
+
+public class Cliente {
+	double margem;
+	double saldo;
+	double desconto;
+
+}

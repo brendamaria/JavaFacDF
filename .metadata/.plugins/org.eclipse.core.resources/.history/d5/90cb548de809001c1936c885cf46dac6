@@ -1,0 +1,9 @@
+package a01;
+
+public class Produto {
+
+	private String nome;
+	private String fabricante;
+	private int quantidade;
+	private double preco;
+}

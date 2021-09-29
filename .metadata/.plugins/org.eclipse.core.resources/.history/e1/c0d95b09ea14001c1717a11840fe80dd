@@ -1,0 +1,9 @@
+package aula02;
+
+public class Funcionario extends Pessoa {
+	
+	private double salario;
+	private double gratificacao;
+	private double desconto;
+
+}

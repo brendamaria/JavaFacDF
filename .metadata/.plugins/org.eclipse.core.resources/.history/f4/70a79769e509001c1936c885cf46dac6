@@ -1,0 +1,16 @@
+package a01;
+
+public class Principal extend  {
+	
+	public static void main(String[] args) {
+		
+		Produto p1 = new Produto();
+		
+		p1.nome = "Chuveiro"; 
+		p1.fabricante = "lorenzetti";
+		p1.preco = 5.66;
+		p1.quantidade = 50;
+	
+		System.out.println("O produto: " + p1.nome + " da marca: " + p1.fabricante + "possui: " + p1.quantidade + "unidades");
+	}
+}
